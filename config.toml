@@ -1,4 +1,4 @@
-baseurl = "https://mroll.github.io/scenes.matthewroll.com/"
+baseurl = "scenes.matthewroll.com"
 canonifyURLs = true
 title = "Scenes"
 languageCode = "en-us"
@@ -9,7 +9,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Author] # Used in authorbox
   name = "Matt Roll"
-  bio = "Writes, codes, drinks coffee"
+  bio = "Writes, codes, drinks coffee. Dreams of a better future 🔭"
 
 [Params]
   subtitle = "" # Deprecated in favor of .Site.Params.logo.subtitle

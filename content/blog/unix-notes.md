@@ -43,11 +43,11 @@ monopoly.
 
 To me this depicts a veritable breeding ground of ideas.
 
-Why was Unix in particular successful? Many reasons, and [[Kernighan]]
+Why was Unix in particular successful? Many reasons, and Kernighan
 lays them out in the first chapter. But the thing that stands out to
 me, the thing that kept it going in those initial stages when it only
-ran on the [[PDP-11]] and funding to continue the project had not even
-been approved, was that [[Ken Thompson]] and the rest of the guys in
+ran on the PDP-11 and funding to continue the project had not even
+been approved, was that Ken Thompson and the rest of the guys in
 1127 __wanted to use it__. It was a toy. It was fun and helped them
 get their work done better than anything else they had access to. Here
 is what Ken Thompson says about Multics, the committee-designed,
@@ -101,4 +101,52 @@ members.
 > grandmasters would show up at the Labs to try their hand against
 > Belle, particularly for endgames. I met world champions Anatoly Karpov
 > and Vishy Anand just by being around on the right weekends.
+
+In the first three chapters there are already several quotes that
+convey the importance of physical proximity to the transfer of
+ideas.
+
+Kernighan talks about a culture where it's expected of you to keep
+your door open.
+
+> MTS [Members of Technical Staff] in Research normally got a private
+> office, though everyone was expected to keep the door open most of
+> the time.
+
+
+He talks about how crucial it was to spend time in the Unix Room to
+keep up to date on what people were working on.
+
+> It’s hard to overstate how important the Unix room was for keeping
+> up with what colleagues were doing, and for creating and maintaining
+> a sense of community.
+
+
+He also mentions some of the prominent neighbors he had across the
+hall from his office over the years, and how that helped
+collaboration.
+
+> Over the years my immediate neighbors included Bill Plauger, Lorinda
+> Cherry, Peter Weinberger and Al Aho. Doug McIlroy, Rob Pike and Jon
+> Bentley were just a few doors away. It’s easier to collaborate with
+> people who are physically close; I’ve been truly lucky in my
+> neighbors.
+
+The question is obviously: is it possible to replicate the effects and
+benefits of this proximity online?
+
+I think to a large extent yes, but there will certainly be things that
+are lost. But there are also things about online communities that are
+impossible to replicate in communities that meet and work together
+primarily IRL.
+
+I'm going to list some of the benefits of IRL community and then see
+if I can come up with online equivalents. This isn't to say the online
+equivalent is as good. I will think about that after.
+
+| IRL Benefit | Online Analog |
+|-------------|---------------|
+| Casually running into people | Idling in a chatroom. Chilling on Twitter. |
+| In person interaction | Video call |
+| Keeping your door open | Idling in a chatroom |
 
