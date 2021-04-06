@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://mroll.github.io/scenes.matthewroll.com/"
 title = "Scenes"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
