@@ -4,6 +4,9 @@ date: 2021-04-05T15:57:32-07:00
 draft: false
 categories:
   - Posts
+tags:
+  - Culture
+  - Communication
 ---
 
 Writing up the notes for _UNIX_ one things occurs to me and that is
