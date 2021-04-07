@@ -1,4 +1,4 @@
-baseurl = "scenes.matthewroll.com"
+baseurl = "https://scenes.matthewroll.com"
 # canonifyURLs = true
 title = "Scenes"
 languageCode = "en-us"
